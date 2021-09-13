@@ -1,0 +1,51 @@
+
+/*Editando o estilo do menu*/
+.menu{
+text-decoration: none;
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif, bold;
+color: black;
+}
+
+/*Editando o estilo do body principal*/
+body{
+background-image: url(/C:/Users/55319/MENUAPIJS/parede.jpg);
+background-repeat: no-repeat;
+position: fixed;
+}
+
+/*Editando o estilo do body TODO*/
+#bodyTODO{
+background-image: url(/C:/Users/55319/MENUAPIJS/parede.jpg);
+background-repeat: no-repeat;
+position: fixed;
+height:100%; 
+color: black; 
+font-family: 'Times New Roman', bold; 
+font-size: 15px;
+}
+
+/*Editando o estilo do body Album*/
+#bodyAlbum{
+background-image: url(/C:/Users/55319/MENUAPIJS/parede.jpg);
+background-repeat: no-repeat;
+position: fixed;
+height:100%; 
+color: black; 
+font-family: 'Times New Roman', bold; 
+font-size: 15px;
+}
+
+/*Editando o estilo do body Postagem*/
+#bodyPostagem{
+background-image: url(/C:/Users/55319/MENUAPIJS/parede.jpg);
+background-repeat: no-repeat;
+position: fixed;
+height: 100%; 
+color: black; 
+font-family: 'Times New Roman', bold; 
+font-size: 15px;
+}
+
+
+    
